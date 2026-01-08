@@ -3,7 +3,7 @@ class Solution {
 while (n != 1 && n != 4) {
     n = Sum(n);
         }
-        return n == 1;
+   return n == 1;
     }
     int Sum(int n) {
      int sum = 0;
